@@ -1,4 +1,4 @@
-VS-Code 
+VS-Code Shortcuts
 =======
 Open terminal - ctrl + `
 open a file - ctrl+p  /  ctrl+e
